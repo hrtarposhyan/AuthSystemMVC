@@ -162,3 +162,4 @@ C:\Users\Hrachya\source\repos\AuthSystemMVC\AuthSystem\AuthSystem\obj\Debug\netc
 C:\Users\Hrachya\source\repos\AuthSystemMVC\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
 C:\Users\Hrachya\source\repos\AuthSystemMVC\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 C:\Users\Hrachya\source\repos\AuthSystemMVC\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Hrachya\source\repos\AuthSystemMVC\AuthSystem\AuthSystem\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_AuthLayout.cshtml.g.cs
